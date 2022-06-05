@@ -1,0 +1,138 @@
+/* ------------------------- Estilo pagina principal "Biografia" -------------------------------- */
+header{
+    display: flex;
+    background-color: #B47820;
+}
+#logoBio{
+    width: 100px;
+    display: inline-block; 
+}
+body
+{
+    background-color: #CDBA82; 
+}
+#imgCynthia
+{
+    padding: 10px;
+    height: 300px;
+    width: 230px;
+}
+#fotoniñez
+{
+    margin: 10px;
+    height: 200px;
+    width: 250px;
+}
+#fotobebe1
+{
+    margin: 10px;
+    height: 200px;
+    width: 250px; 
+}
+#fotobebe2
+{
+    margin: 10px;
+    height: 200px;
+    width: 250px;
+}
+.DatosCynthia
+{
+    display: flex;
+}
+.datosPersonales
+{
+    display: block;
+    width: 700px;
+    padding: 30px, 20px;
+}
+.biografia
+{
+    position: relative;
+    left: 70px;
+    letter-spacing: 5px;
+    color: darkred;
+}
+.historiabio
+{
+    text-align: justify;
+    width: 80%;
+}
+.barradeopciones
+{
+   display: flex;
+   background-color: black;
+   width: 100%;
+   height: 60px;
+   padding-left: 900px;
+
+}
+/*----------------------------------- Estilo pagina actualidad -----------------------------------*/
+
+
+
+
+
+/* -----------------------------------Estilo pagina Adolescencia -----------------------------------*/
+.fotofiv
+{
+    height: 150px;
+    width: 200px;
+}
+.kpopfoto
+{
+    height: 150px;
+    width: 200px;
+}
+.minecraft
+{
+    height: 150px;
+    width: 200px;
+}
+
+/* -----------------------------------Estilo pagina Infancia -----------------------------------*/
+.Jarana
+{
+    height: 150px;
+    width: 250px; 
+}
+.santafoto
+{
+    height: 150px;
+    width: 250px;
+}
+.fotopingo
+{
+    height: 150px;
+    width: 250px;
+}
+.espagueti
+{
+    height: 120px;
+    width: 200px;
+}
+.pulpo
+{
+    height: 130px;
+    width: 200px;
+}
+.hotcakes
+{
+    height: 120px;
+    width: 200px;
+}
+/* -----------------------------------Estilo pagina primeros Anios -----------------------------------*/
+.fotofiesta
+{
+    height: 150px;
+    width: 250px;
+}
+.fiesta 
+{
+    height: 150px;
+    width: 200px;
+}
+.fotomia 
+{
+    height: 150px;
+    width: 200px;
+}
